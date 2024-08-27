@@ -1,0 +1,17 @@
+
+[
+  {
+    "context": "Editor",
+    "bindings": {
+      "cmd-shift-r": "editor::Rename",
+      "cmd-shift-1": "editor::ToggleComments",
+      "cmd-alt-c": "editor::CopyRelativePath"
+    }
+  },
+  {
+    "context": "Terminal",
+    "bindings": {
+      "cmd-d": "workspace::NewTerminal"
+    }
+  }
+]
