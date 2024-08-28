@@ -14,7 +14,7 @@ config = {
 		tab_bar = {
 			background = "#1E1E2F",
 			active_tab = {
-				bg_color = "#222437",
+				bg_color = "#32324E",
 				fg_color = "#c5d3f8",
 			},
 			inactive_tab = {
@@ -22,7 +22,7 @@ config = {
 				fg_color = "#6f748a",
 			},
 			inactive_tab_hover = {
-				bg_color = "#2b2b3a",
+				bg_color = "#32324E",
 				fg_color = "#7c8098",
 			},
 			new_tab = {
@@ -30,7 +30,7 @@ config = {
 				fg_color = "#6f748a",
 			},
 			new_tab_hover = {
-				bg_color = "#2b2b3a",
+				bg_color = "#32324E",
 				fg_color = "#7c8098",
 			},
 		},
